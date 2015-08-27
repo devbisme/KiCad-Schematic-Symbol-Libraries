@@ -2,7 +2,7 @@
 
 This is just a repository of KiCad schematic symbol libraries developed at XESS.
 
-* `Lattice_iCE_FPGA.lib` currently contains the Lattice iCE40 HX FPGAs. (**More coming soon!**)
+* `Lattice_iCE_FPGA.lib` currently contains the Lattice iCE40 HX & LM FPGAs. (**More coming soon!**)
 * `Cypress_PSoC.lib` contains a few Cypress PSoC 5LP chips.
 * `Cypress_cy8c5xlp.lib` contains **all** the Cypress PSoC5LP chips.
 * `xilinx6s.lib` contains **all** the Xilinx Spartan-6 FPGAs.
