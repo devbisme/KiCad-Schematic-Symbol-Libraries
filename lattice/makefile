@@ -3,7 +3,7 @@ ice := ice40pinouthx1k ice40pinouthx4k ice40pinouthx8k \
        ice40lp640 \
        ice40pinoutlp1k ice40pinoutlp4k ice40pinoutlp8k \
        ice40pinoutlp384 \
-       ice40pinoutul1k \
+       ice40pinoutul1k ice5pinoutup3k ice5pinoutup5k\
        ice5pinoutlp1k ice5pinoutlp2k ice5pinoutlp4k
 
 Lattice_iCE_FPGA.lib : $(ice:=.csv)
