@@ -90,6 +90,7 @@ Pin,Name,Type,Side
 26,~MCLR,input,top
 27,VREF+/CVREF+/AN0/C3INC/RPA0/CTED1/RA0,io,top
 28,VREF-/CVREF-/AN1/RPA1/CTED2/RA1,io,top
+29,PAD,power,top
 ,,,
 PIC32MX2*0F***B-QFN28,,,
 Pin,Name,Type,Side
@@ -121,6 +122,7 @@ Pin,Name,Type,Side
 26,~MCLR,input,top
 27,PGED3/VREF+/CVREF+/AN0/C3INC/RPA0/CTED1/PMD7/RA0,io,top
 28,PGEC3/VREF-/CVREF-/AN1/RPA1/CTED2/PMD6/RA1,io,top
+29,PAD,power,top
 ,,,
 PIC32MX1*0F***C-VTLA36,,,
 Pin,Name,Type,Side
@@ -160,6 +162,7 @@ Pin,Name,Type,Side
 34,VREF-/CVREF-/AN1/RPA1/CTED2/RA1,io,top
 35,PGED1/AN2/C1IND/C2INB/C3IND/RPB0/RB0,io,top
 36,PGEC1/AN3/C1INC/C2INA/RPB1/CTED12/RB1,io,top
+37,PAD,power,top
 ,,,
 PIC32MX2*0F***C-VTLA36,,,
 Pin,Name,Type,Side
@@ -199,6 +202,7 @@ Pin,Name,Type,Side
 34,PGEC3/VREF-/CVREF-/AN1/RPA1/CTED2/PMD6/RA1,io,top
 35,PGED1/AN2/C1IND/C2INB/C3IND/RPB0/PMD0/RB0,io,top
 36,PGEC1/AN3/C1INC/C2INA/RPB1/CTED12/PMD1/RB1,io,top
+37,PAD,power,top
 ,,,
 PIC32MX1*0F***D-QFN44,,,
 Pin,Name,Type,Side
@@ -246,6 +250,7 @@ Pin,Name,Type,Side
 42,PGEC3/RPB6/PMD6/RB6,io,top
 43,RPB7/CTED3/PMD5/INT0/RB7,io,top
 44,RPB8/SCL1/CTED10/PMD4/RB8,io,top
+45,PAD,power,top
 ,,,
 PIC32MX2*0F***D-QFN44,,,
 Pin,Name,Type,Side
@@ -293,6 +298,7 @@ Pin,Name,Type,Side
 42,VBUS,input,top
 43,RPB7/CTED3/PMD5/INT0/RB7,io,top
 44,RPB8/SCL1/CTED10/PMD4/RB8,io,top
+45,PAD,power,top
 ,,,
 PIC32MX1*0F***D-TQFP44,,,
 Pin,Name,Type,Side
@@ -434,6 +440,7 @@ Pin,Name,Type,Side
 42,PGEC3/RPB6/PMD6/RB6,io,top
 43,RPB7/CTED3/PMD5/INT0/RB7,io,top
 44,RPB8/SCL1/CTED10/PMD4/RB8,io,top
+45,PAD,power,top
 ,,,
 PIC32MX2*0F***D-VTLA44,,,
 Pin,Name,Type,Side
@@ -481,3 +488,4 @@ Pin,Name,Type,Side
 42,VBUS,input,top
 43,RPB7/CTED3/PMD5/INT0/RB7,io,top
 44,RPB8/SCL1/CTED10/PMD4/RB8,io,top
+45,PAD,power,top
