@@ -4,7 +4,7 @@ xilinxultra.lib: zupall.zip usaall.zip
 	kipart -r xilinxultra -s name -b -w -o $@ $^
 	mv -f $@ ..
 	
-xilinx7.lib: s7all.zip a7all.zip k7all.zip v7all.zip 7zSeriesALL.zip
+xilinx7.lib: s7all.zip a7all.zip k7all.zip v7all.zip z7all.zip
 	kipart -r xilinx7 -s name -b -w -o $@ $^
 	mv -f $@ ..
 

@@ -1,0 +1,6 @@
+OSC,,,,,
+Pin,Type,Name,Style,Side,Unit
+1,IN,FS/OE,,left,1
+2,PWR,GND,,left,1
+3,OUT,CLK,,right,1
+4,PWR,VDD,,right,1

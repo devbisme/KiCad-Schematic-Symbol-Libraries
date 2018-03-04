@@ -1,0 +1,7 @@
+TPS736,,,
+Pin,Name,Type,Side
+1,IN,pwr,left
+2,GND,pwr,bottom
+3,EN,in,left
+4,NR/FB,passive,right
+5,OUT,pwr_out,right

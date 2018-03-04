@@ -1,0 +1,8 @@
+PICkit3_hdr,,
+Pin,Name,Type
+1,~MCLR,out
+2,VDD,power
+3,GND,power
+4,PGD,io
+5,PGC,io
+6,NC,nc
