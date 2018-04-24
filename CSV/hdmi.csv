@@ -13,10 +13,10 @@ Pin,Name,Type,Side
 11,CLKSHLD,passive,
 12,CLK-,io,
 13,CEC,io,
-14,NC,nc,
+14,RES/HEAC+,io,
 15,SCL,io,
 16,SDA,io,
 17,GND,pwr,
-18,+5V,pwr,
-19,DETECT,out,
+18,+5V,pwrout,
+19,DETECT/HEAC-,io,
 SH,SH,passive,bottom
