@@ -6,6 +6,7 @@ This is just a repository of KiCad schematic symbol libraries developed at XESS.
 * `Cypress_cy8c5xlp.lib` contains **all** the Cypress PSoC5LP chips.
 * `gowin_fpga.lib` contains **all** the GOWIN FPGAs.
 * `Lattice_iCE_FPGA.lib` contains the Lattice iCE40 HX, LM, LP & Ultralight FPGAs.
+* `Lattice_ECP5_FPGA.lib` contains the Lattice ECP5 & ECP5-5G FPGAs.
 * `pic32.lib` contains the PIC32 MX 1XX/2XX 28/36/44-pin microcontrollers.
 * `xess.lib` contains a grab-bag of parts, many auto-converted from Eagle. 
 * `xilinx6s.lib` contains **all** the Xilinx Spartan-6 FPGAs.

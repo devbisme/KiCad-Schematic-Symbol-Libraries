@@ -1,4 +1,4 @@
-manufacturers := gowin xilinx cypress lattice
+manufacturers := GOWIN xilinx cypress lattice
 
 all         : $(manufacturers:=.all)
 clean       : $(manufacturers:=.clean)
