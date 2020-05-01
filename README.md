@@ -1,6 +1,6 @@
 # README
 
-This is just a repository of KiCad schematic symbol libraries developed at XESS.
+This is a repository of KiCad schematic symbol libraries developed at XESS.
 
 * `Cypress_PSoC.lib` contains a few Cypress PSoC 5LP chips.
 * `Cypress_cy8c5xlp.lib` contains **all** the Cypress PSoC5LP chips.
