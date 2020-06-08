@@ -8,6 +8,7 @@ This is a repository of KiCad schematic symbol libraries developed at XESS.
 * `Lattice_ECP5_FPGA.lib` contains the Lattice ECP5 & ECP5-5G FPGAs.
 * `Lattice_iCE_FPGA.lib` contains the Lattice iCE40 HX, LM, LP & Ultralight FPGAs.
 * `pic32.lib` contains the PIC32 MX 1XX/2XX 28/36/44-pin microcontrollers.
+* `wch.lib` contains the WCH CH54* and CH55* 8051 microcontrollers.
 * `xess.lib` contains a grab-bag of parts, many auto-converted from Eagle. 
 * `xilinx6s.lib` contains **all** the Xilinx Spartan-6 FPGAs.
 * `xilinx6v.lib` contains **all** the Xilinx Virtex-6 FPGAs.
