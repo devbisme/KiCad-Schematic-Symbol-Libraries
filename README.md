@@ -12,7 +12,7 @@ This is a repository of KiCad schematic symbol libraries developed at XESS.
 * `xess.lib` contains a grab-bag of parts, many auto-converted from Eagle. 
 * `xilinx6s.lib` contains **all** the Xilinx Spartan-6 FPGAs.
 * `xilinx6v.lib` contains **all** the Xilinx Virtex-6 FPGAs.
-* `xilinx7.lib` contains **all** the Xilinx 7-Series FPGAs (Zynq, Artix, Kintex and Virtex).
+* `xilinx7.lib` contains **all** the Xilinx 7-Series FPGAs (Zynq, Artix, Kintex, Spartan and Virtex).
 * `xilinxultra.lib` contains **all** the Xilinx Ulatrascale FPGAs (Zynq, Kintex and Virtex).
 
 
